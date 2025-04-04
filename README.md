@@ -1,1 +1,1 @@
-# Systick-with-Interrupt-Programming-in-Tiva-C
+Sample for systick programming in ARM Cortex-M4F processor Tiva C launchpad (TM4C123GXL). The main objective of this code is to blink on board red led for every one second. This is acheived by programming Systick peripheral along with interrupt present in Tiva C launchpad (TM4C123GXL).
